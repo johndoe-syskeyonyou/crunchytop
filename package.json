@@ -14,7 +14,7 @@
     "open",
     "crunchy"
   ],
-  "author": "@2qbruh",
+  "author": "@2qbruh <2qb@kittymail.com>",
   "license": "CC0-1.0",
   "scripts": {
     "windows": "electron-builder --win",
