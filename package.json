@@ -18,7 +18,7 @@
   "license": "CC0-1.0",
   "scripts": {
     "windows": "electron-builder --win",
-    "linux": "electron-builder --deb"
+    "linux": "electron-builder --linux deb"
   },
   "devDependencies": {
     "electron-builder": "22.7.0",
