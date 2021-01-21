@@ -17,6 +17,7 @@
   "author": "@2qbruh",
   "license": "CC0-1.0",
   "devDependencies": {
+    "electron-builder": "22.7.0",
     "electron": "^1.8.4"
   }
 }
