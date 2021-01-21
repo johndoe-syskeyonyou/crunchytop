@@ -16,6 +16,10 @@
   ],
   "author": "@2qbruh",
   "license": "CC0-1.0",
+  "scripts": {
+    "windows": "electron-builder --win",
+    "linux": "electron-builder --deb"
+  },
   "devDependencies": {
     "electron-builder": "22.7.0",
     "electron": "^1.8.4"
