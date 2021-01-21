@@ -1,20 +1,20 @@
 {
-  "name": "electron-quick-start",
+  "name": "crunchytop",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Crunchyroll on Desktop? Yes please!",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/2qbruh/crunchytop",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "starboard",
+    "raintain",
+    "p2p",
+    "open",
+    "crunchy"
   ],
-  "author": "GitHub",
+  "author": "@2qbruh",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^1.8.4"
